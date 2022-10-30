@@ -50,6 +50,8 @@ def cosine_similar(string, vector, trained_vectors):
 			if score < score_limit:
 				score = 0
 		scores.append(score)
+
+	print(scores)
 	if scores.count(0) == len(scores):
 		return -1
 

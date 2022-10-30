@@ -32,14 +32,15 @@ def dectect_application(ans, tag):
 		return ans, tag
 	return ans, tag
 def detect_keywords_to_search(you, ans, tag):
-	pos_tags = pos_tag(you)
-	count = 0
-	for tup in pos_tags:
-		if tup[1] == 'N':
-			count += 1
-	if count == len(pos_tags):
-		ans = you
-		tag = 'search google'
+	if tag == '':
+		pos_tags = pos_tag(you)
+		count = 0
+		for tup in pos_tags:
+			if tup[1] == 'N':
+				count += 1
+		if count == len(pos_tags):
+			ans = you
+			tag = 'search google'
 
 	return ans, tag
 def detect_city_weather(you, ans, tag):
@@ -65,10 +66,7 @@ def think(you):
 	ans = data["intents"][index]["ans"][randint(0, len(data["intents"][index]["ans"]) - 1)]
 	tag = data["intents"][index]["tag"]
 
-	print(tag)
-
 	ans, tag = dectect_application(ans, tag)
-	print(tag)
 	ans, tag = detect_keywords_to_search(you, ans, tag)
 	ans, tag = detect_city_weather(you, ans, tag)
 

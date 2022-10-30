@@ -7,7 +7,7 @@ language = "vi-VI"
 
 def listen(language=language, silent=False):
 	try:
-		# print(2/0)
+		print(2/0)
 		with speech_recognition.Microphone() as mic:
 			if not silent:
 				print("Candy: Mời bạn nói...")
@@ -22,7 +22,7 @@ def listen(language=language, silent=False):
 		sys.exit(0)
 	except:
 		you = ""
-		# you = input('You: ')
+		you = input('You: ')
 	if not silent:
 		print("You: " + you)
 	return you
