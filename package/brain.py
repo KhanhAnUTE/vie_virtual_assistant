@@ -1,6 +1,5 @@
 import pickle
 import json
-import re
 from underthesea import pos_tag
 from training.function import fit
 from random import randint

@@ -1,0 +1,5 @@
+test.py
+__pycache__
+asset/data/data.csv
+asset/data/mind.json
+asset/data/trained_data.pickle

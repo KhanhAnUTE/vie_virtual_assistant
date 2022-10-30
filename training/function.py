@@ -2,7 +2,6 @@ import os
 import re
 import math
 import json
-from turtle import setworldcoordinates
 
 re_string = r"\.|,|;|/|:|!|\?|[0-9]"
 empty = ""
@@ -12,8 +11,17 @@ score_for_require = 0.1
 with open(os.path.dirname(__file__) + '\\..\\asset\\data\\mind.json', encoding='utf-8') as file:
 	data = json.load(file)
 
+#read stopword
+with open('asset/data/stopwords.txt', 'rt', encoding='utf-8') as file:
+    stop_words = file.readlines()
+for i in range(len(stop_words)):
+    stop_words[i].replace('\n', '')
 
 def clean_data(string):
+	#stopwords removal
+	for stop_word in stop_words:
+		if stop_word in string:
+			string = string.replace(stop_word, '')
 	#folding case
 	string = re.split(re_string, string.lower())
 	string = empty.join(string).strip()
@@ -51,7 +59,7 @@ def cosine_similar(string, vector, trained_vectors):
 				score = 0
 		scores.append(score)
 
-	print(scores)
+	# print(scores)
 	if scores.count(0) == len(scores):
 		return -1
 

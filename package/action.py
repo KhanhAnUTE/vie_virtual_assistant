@@ -6,6 +6,7 @@ import win32con
 import wikipedia
 import requests
 import webbrowser
+from random import randint
 from youtube_search import YoutubeSearch
 from datetime import datetime
 from gtts import gTTS
@@ -13,20 +14,30 @@ import playsound
 import time
 from package.ear import listen
 
+#get user info
 with open('asset/data/user_info.json', encoding='utf-8') as f:
     user = json.load(f)
 
+#get stories
+with open('asset/data/stories.txt', 'rt', encoding='utf-8') as f:
+    stories = f.read()
+stories = stories.split('--')
+
+#set up language
 language = "vi"
-wikipedia.set_lang('vi')
+wikipedia.set_lang('vi') 
+#save current wallpaper
 ubuf = ctypes.create_unicode_buffer(512)
 ctypes.windll.user32.SystemParametersInfoW(win32con.SPI_GETDESKWALLPAPER,len(ubuf),ubuf,0)
 my_wallpaper = ubuf.value
 
+#store directories that ussually contain win app
 current_dir = os.getcwd()
 apps_dirs = ["C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\"]
 path = os.path.join('C:\\Users\\', os.getlogin(),'Desktop\\')
 apps_dirs.append(path)
 
+#boolean
 IS_SILENT = True
 NOT_SILENT = False
 
@@ -53,6 +64,10 @@ class Action:
             status =  self.__change_wallpaper(ans, tag)
         elif tag == 'me':
             status = self.__me(ans, tag)
+        elif tag == 'story':
+            status = self.__story(ans, tag)
+        elif tag == 'sad':
+            status = self.__sad(ans, tag)
         else:
             status =  self.__speak(ans, tag)
 
@@ -88,6 +103,57 @@ class Action:
         os.remove(filedir)
 
         return NOT_SILENT
+
+    def __check_acception(self, you):
+        accepts = ['okay', 'oke', 'okê', 'có', 'ok', 'được']
+        for accept in accepts:
+            if accept in you:
+                return True
+        return False
+    def __story(self, ans, tag):
+        count = 0
+        while True:
+            count += 1
+            index = randint(0, len(stories) - 1)
+            self.__speak(stories[index])
+            time.sleep(1)
+            if count == 3:
+                self.__speak('Candy kể chuyện có làm bạn vui không')
+                you = listen()
+                if self.__check_acception(you):
+                    self.__speak('Candy rất vui khi làm bạn vui')
+                else:
+                    self.__speak('Candy buồn vì không làm bạn vui được')
+                    return NOT_SILENT
+            self.__speak('Bạn có muốn nghe tiếp không?')
+            you = listen()
+            if not self.__check_acception(you):
+                self.__speak('Okay nè')
+                break
+        return NOT_SILENT
+
+    def __sad(self, ans, tag):
+        you = ''
+        rand = randint(0, 2)
+        if rand != 2:
+            ans += " Candy đã học hỏi được một vài cách để vượt qua nổi buồn, hãy để Candy giúp bạn."
+        if rand == 0:
+            self.__speak(ans + ' Bạn có muốn nghe vài bản nhạc không?')
+            you = listen()
+        elif rand == 1:
+            self.__speak(ans + ' Bạn có muốn nghe vài mẫu truyện vui không?')
+            you = listen()
+        else:
+            self.__speak('Bạn hãy luôn lạc quan lên nhé, Candy luôn ở bên bạn')
+        
+        if self.__check_acception(you):
+            if rand == 0:
+                return self.__play_song('Ca khúc nhạc buồn tâm trạng', tag)
+            elif rand == 1:
+                return self.__story(you, tag)
+        elif rand != 2:
+            self.__speak('Candy hiểu rồi...')
+        return NOT_SILENT         
 
     def __get_time(self, ans, tag):
         now = datetime.now()
@@ -132,6 +198,7 @@ class Action:
                 you = listen()
             contents = wikipedia.summary(you).split('\n')
             count = 0
+            self.__speak("Theo wikipedia, ")
             while count < len(contents):
                 self.__speak(contents[count])
                 if count + 1 < len(contents):
@@ -161,7 +228,7 @@ class Action:
             if result:
                 break
         url = 'https://www.youtube.com' + result[0]['url_suffix']
-        self.__speak("Bài hát bạn yêu cầu đang được mở. Chúc bạn nghe nhạc vui vẻ")
+        self.__speak("Candy đã mở bài hát. Chúc bạn nghe nhạc vui vẻ")
         webbrowser.open(url)
 
         return IS_SILENT

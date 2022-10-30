@@ -14,10 +14,30 @@ Bye nha
 Bái bai
 Tôi hết câu hỏi rồi","Tạm biệt bạn.
 Mong sớm gặp lại bạn.",bye
+,thanks,"Cảm ơn Candy nhiều nha
+Thật tốt vì bạn giúp tôi
+Thanks nha","Giúp được bạn tôi vui lắm
+Không có gì đâu nè","cảm
+ơn"
+,compliment,"Tuyệt vời quá
+Candy giỏi quá
+Hết sẩy
+Quá đỉnh","Hihi, khen làm tôi ngại đó","quá
+giỏi"
+,sad,"Tôi buồn quá đi
+Hôm nay không vui lắm candy ơi
+Tôi thấy buồn","Cảm ơn bạn đã chia sẻ với Candy, thành thật với cảm xúc của mình là bước tiến lớn.",buồn
+,story,"Kể tôi nghe 1 câu chuyện được không
+Bạn có chuyện gì kể tôi không
+tôi chán quá đi",,"kể
+truyện
+cười"
 ,open app,"Hãy mở app
 Tôi muốn mở app
 Giúp tôi mở ứng dụng
-Mở phần mềm",,
+Mở phần mềm",,"app
+ứng
+dụng"
 ,chrome,"Hãy mở chrome
 Hãy mở google
 Giúp tôi mở google chrome
@@ -34,6 +54,7 @@ Tôi muốn mở powerpoint
 Giúp tôi mở microsoft powerpoint",,powerpoint
 ,calc,"Hãy mở máy tính
 Giúp tôi mở máy tính
+Sử dụng máy tính
 Tôi muốn mở calculator",,
 ,edge,"Hãy mở edge
 Giúp tôi mở microsoft edge
@@ -103,7 +124,8 @@ Bạn thấy tôi xinh gái không?
 Tôi có đẹp trai không?",Bạn rất đẹp luôn.,
 ,communication,"Làm trợ lý ảo có mệt không?
 Làm người hay làm trợ lý ảo mệt hơn nhỉ?
-Có bao giờ bạn cảm thấy mệt mỏi không?",Trò chuyện cùng bạn thì tôi không bao giờ mệt cả.,
+Có bao giờ bạn cảm thấy mệt mỏi không?
+Làm trợ lý ảo có sướng không",Trò chuyện cùng bạn thì tôi không bao giờ mệt cả.,
 ,job,"Bạn làm công việc gì?
 Bạn có thể giúp gì cho tôi?
 Bạn làm được những gì?
@@ -142,17 +164,20 @@ Hòn ngọc biển Đông là nơi nào?",Là đảo Phú Quốc,
 Các địa điểm du lịch nổi tiếng nhất Việt Nam ở đâu?
 Tôi nên ghé qua những địa điểm du lịch nào ở Việt Nam?
 Bạn có biết Việt Nam có những địa điểm du lịch gì?
-Tôi nên ghé qua những địa điểm du lịch nào ở Việt Nam?","Chà, Việt Nam có rất nhiều địa điểm du lịch như Phú Quốc, Bà Nà Hill, Động Phong Nha, Vịnh Hạ Long. Bạn hãy ghé thăm nhé.",
+Tôi nên ghé qua những địa điểm du lịch nào ở Việt Nam?","Chà, Việt Nam có rất nhiều địa điểm du lịch như Phú Quốc, Bà Nà Hill, Động Phong Nha, Vịnh Hạ Long. Bạn hãy ghé thăm nhé.","du
+lịch"
 ,travel time,"Khi nào tôi nên đi du lịch Châu Âu?
 Lúc nào thì thời tiết thích hợp để đi du lịch Châu Âu?
 Tôi nên đi du lịch Châu Âu khi nào?
 Nên đi du lịch Châu Âu khi nào?
-Khi nào là thời điểm thích hợp để đi du lịch Châu Âu?","Tháng 5 đến tháng 7, mùa đẹp nhất để đi du lịch châu Âu là vào đầu hè.",
+Khi nào là thời điểm thích hợp để đi du lịch Châu Âu?","Tháng 5 đến tháng 7, mùa đẹp nhất để đi du lịch châu Âu là vào đầu hè.","du
+lịch"
 ,travel alone,"Nên chuẩn bị những gì khi đi du lịch một mình?
 Cách gì để đi du lịch một mình hiệu quả?
 Tôi cần chuẩn bị những gì khi đi du lịch một mình?
 Những gì cần lưu ý khi đi du lịch một mình?
-Đi du lịch một mình cần quan tâm điều gì?","Hãy kết thân và hỏi thăm người địa phương, nhưng đừng quá cả tin, vì an toàn là trên hết nhé.",
+Đi du lịch một mình cần quan tâm điều gì?","Hãy kết thân và hỏi thăm người địa phương, nhưng đừng quá cả tin, vì an toàn là trên hết nhé.","du
+lịch"
 Học tập,app,"Ứng dụng nhắc nhở học tập là gì?
 Ựng dụng lên lịch học là gì?
 Ứng lập kế hoạch học tập là gì?",TickTick: Things & Tasks To Do,
@@ -187,46 +212,46 @@ Trò Chơi,game,"Game gì được nhiều người biết đến?
 Game nào hiện nay nhiều người chơi?
 Game chiến thuật nhiều người chơi hiện nay?
 Game được chơi nhiều hiện nay?
-Game phố biến nhất hiện nay là game gì?",Theo candy là game PUBG.,
+Game phố biến nhất hiện nay là game gì?",Theo candy là game PUBG.,game
 ,relax game,"Những thể loại game giúp giảm căng thẳng?
 Game giải trí nhẹ nhàng là gì?
 Các thể loại game giải trí khi mệt mỏi là gì?
 Nên chơi những thể loại game gì khi mệt mỏi?
 Có các thể loại game gì giúp giải trí?","Hãy thử chơi game A Short Hike nhé.
 Hãy thử chơi game Euro Truck Simulator 2 nhé.
-Hãy thử chơi game The Hunter: Call of the Wild nhé.",
+Hãy thử chơi game The Hunter: Call of the Wild nhé.",game
 ,game effect,"Ảnh hưởng tiêu cực từ việc chơi game quá lâu là gì?
 Chơi game quá lâu sẽ gây hại gì cho cơ thể?
 Lạm dụng game quá mức gây ảnh hưởng thế nào đến sức khỏe và tâm trí?
 Những tác hại khôn lường từ việc chơi game quá lâu là gì?
-Vì sao chơi game quá lâu lại tiềm ẩn nguy hiểm khó tránh?","Nghiện game có thể gây ra hậu quả đáng kể về sức khỏe, cuộc sống và tác động trực tiếp tới não bộ và sức khỏe tâm thần.",
+Vì sao chơi game quá lâu lại tiềm ẩn nguy hiểm khó tránh?","Nghiện game có thể gây ra hậu quả đáng kể về sức khỏe, cuộc sống và tác động trực tiếp tới não bộ và sức khỏe tâm thần.",game
 ,relax,"Các hoạt động giải trí tốt cho sức khỏe là gì?
 Những bộ môn giải trí tốt cho sức khỏe là gì?
 Hoạt động giải trí thế nào là lành mạnh?
 Muốn giải trí lành mạnh có thể thử qua những hoạt động gì?","Đọc sách, nghe nhạc, dọn dẹp nhà cửa, xem phim.
-",
+",game
 ,game benefit,"Chơi game có thể hỗ trợ những gì?
 Tác động tích cực của việc chơi game có khoa học là gì?
 Vì sao chơi game mang lại lợi ích?
 Những điều tích cực từ việc chơi game là gì?
-Chơi game giúp cho con người nâng cao khả năng gì?","Chơi game giúp tăng cường trí nhớ, mở rộng tư duy và tăng khả năng sáng tạo. Đồng thời hỗ trợ cải thiện khả năng phản xạ và tính kiên trì, tăng khả năng làm việc nhóm, cải thiện thị lực, tầm nhìn.",
+Chơi game giúp cho con người nâng cao khả năng gì?","Chơi game giúp tăng cường trí nhớ, mở rộng tư duy và tăng khả năng sáng tạo. Đồng thời hỗ trợ cải thiện khả năng phản xạ và tính kiên trì, tăng khả năng làm việc nhóm, cải thiện thị lực, tầm nhìn.",game
 ,game pubg,"Năm ra mắt game PUBG là năm nào?
 Game PUBG ra mắt vào năm mấy?
 Game PUBG có phải ra mắt vào năm 2018 hay không?
 Game PUBG ra mắt khi nào?
 Năm nào game PUBG được ra mắt?
-Ra mắt game PUBG năm bao nhiêu?",Game PUBG được ra mắt vào năm 2018.,
+Ra mắt game PUBG năm bao nhiêu?",Game PUBG được ra mắt vào năm 2018.,game
 ,platform pubg,"Điện thoại và máy tính chơi được PUBG không?
 Máy tính và điện thoại chơi được PUBG không?
 Game PUBG chơi được trên điện thoại không?
 Game PUBG chơi được trên máy tính không?
-Game PUBG chơi được trên cả máy tính và điện thoại không?",Theo Candy biết là được.,
+Game PUBG chơi được trên cả máy tính và điện thoại không?",Theo Candy biết là được.,game
 ,system pubg,"Nền tảng nào chơi được game PUBG?
 Game PUBG chơi được trên nền tảng nào?
-Nền tảng nào chơi được game PUBG?",Theo Candy biết Game PUBG chơi được trên 2 nền tảng là IOS và Android.,
+Nền tảng nào chơi được game PUBG?",Theo Candy biết Game PUBG chơi được trên 2 nền tảng là IOS và Android.,game
 ,fun game,"Game PUBG chơi có vui không?
 Chơi game PUBG vui không?
-Chơi game PUBG có vui không?",Tất nhiên là vui rồi.,
+Chơi game PUBG có vui không?",Tất nhiên là vui rồi.,game
 Gia đình,parents,"Làm thế nào để lắng nghe nỗi lòng của cha mẹ?
 Cách lắng nghe cha mẹ hiệu quả là gì?
 Làm thế nào để có thể thấu hiểu cha mẹ?
@@ -262,32 +287,32 @@ Quyển sách được đọc giả cho là hay nhất?
 Tới thời điểm hiện tại, đâu là quyển sách hay nhất?
 Sách hay nhất tên gì?
 Sách hay nhất có tên là gì?
-Theo các bình chọn thì đâu là quyển sách hay nhất?",Theo nhiều trang bình chọn thì Đắc Nhân Tâm - Dale Carnegie được cho là 1 trong top 10 quyển sách hay nhất mọi thời đại.,
+Theo các bình chọn thì đâu là quyển sách hay nhất?",Theo nhiều trang bình chọn thì Đắc Nhân Tâm - Dale Carnegie được cho là 1 trong top 10 quyển sách hay nhất mọi thời đại.,sách
 ,good book,"Những quyển sách hay để rèn luyện bản thân là gì?
 Những quyển sách giúp khai mở trí óc là gì?
 Những cuốn sách phát triển bản thân nên đọc một lần trong đời là gì?
 Nên đọc những cuốn sách gì để rèn luyện và phát triển bản thân?
-Những cuốn sách hay nên đọc về phát triển và rèn luyện bản thân là gì?","Hãy đọc Đắc Nhân Tâm, Khi hơi thở hóa thinh không, Dạy con làm giàu nhé, nó sẽ có ích cho bạn đấy.",
+Những cuốn sách hay nên đọc về phát triển và rèn luyện bản thân là gì?","Hãy đọc Đắc Nhân Tâm, Khi hơi thở hóa thinh không, Dạy con làm giàu nhé, nó sẽ có ích cho bạn đấy.",sách
 ,reading habit,"Làm thế nào để duy trì thói quen đọc sách?
 Cách gì giúp Nuôi Dưỡng Thói Quen Đọc Sách?
 Cần làm gì để hình thành thói quen đọc sách hiệu quả?
 Xây dựng thói quen đọc sách hiệu quả là gì?
-Cách hình thành thói quen đọc sách là gì?","Luôn mang theo sách ở bên người, chọn sách phù hợp và đọc nhiều thể loại sách bạn nhé.",
+Cách hình thành thói quen đọc sách là gì?","Luôn mang theo sách ở bên người, chọn sách phù hợp và đọc nhiều thể loại sách bạn nhé.",sách
 ,reading way,"Phương pháp đọc sách hiệu quả là gì?
 Cách đọc sách hiệu quả là gì?
 Làm thế nào để đọc sách cho hiệu quả?
 Bí quyết để đọc sách hiệu quả là gì?
-Cách đọc sách hiệu quả, nhớ lâu là gì?","Tránh đọc nhảy trở lại quá nhiều, hãy cố gắng hiểu ý nghĩa của cả đoạn văn, đừng để ý đến từng từ, từng câu.",
+Cách đọc sách hiệu quả, nhớ lâu là gì?","Tránh đọc nhảy trở lại quá nhiều, hãy cố gắng hiểu ý nghĩa của cả đoạn văn, đừng để ý đến từng từ, từng câu.",sách
 ,rich habit,"Người giàu có những thói quen gì?
 Người giàu sẽ làm gì để cuộc sống của họ tốt hơn mỗi ngày?
 Những thói quen để trở nên giàu có là gì?
 Những thói quen phổ biến của người giàu là gì?
-Những việc nhỏ người giàu thường làm để ngày càng giàu lên là gì?","Người giàu luôn tìm đúng người, làm đúng việc, học tập và làm việc mỗi ngày.",
+Những việc nhỏ người giàu thường làm để ngày càng giàu lên là gì?","Người giàu luôn tìm đúng người, làm đúng việc, học tập và làm việc mỗi ngày.",sách
 ,poor habit,"Những thói quen người nghèo khó bỏ là gì?
 Những thói quen của ""con nhà nghèo"" là gì?
 Các thói quen khiến con người trở nên nghèo ngay cả khi có thu nhập khá là gì?
 Những thói quen khiến con người mãi nghèo dù thu nhập khá là gì?
-Những thói quen như thế nào khiến con người ""nghèo vẫn nghèo""?","Than thân trách phận, đo sự thành công bằng tiền bạc và thích so sánh mình với người khác.",
+Những thói quen như thế nào khiến con người ""nghèo vẫn nghèo""?","Than thân trách phận, đo sự thành công bằng tiền bạc và thích so sánh mình với người khác.",sách
 ,zodiac,"Có tất cả bao nhiêu cung Hoàng đạo?
 Tổng có bao nhiêu cung Hoàng đạo?
 Số cung Hoàng đạo trên biểu đồ sao?
@@ -525,7 +550,7 @@ Bạn hát hay không?
 Bạn hát cho tôi nghe được không?
 Bạn hay hát thể loại nào?
 Bạn hát được nhạc việt không?
-Bạn biết hát chứ?","Xin lỗi tôi vẫn chưa biết hát, nhưng tôi có thể giúp bạn mở nhạc.",
+Bạn biết hát chứ?","Xin lỗi tôi vẫn chưa biết hát, nhưng tôi có thể giúp bạn mở nhạc.",hát
 Công việc,occupation,"Kiếm việc làm trên trang website nào là tốt nhất?
 Các trang mạng tìm kiếm việc làm uy tín là gì?
 Kiếm việc trên đâu thì ít bị lừa đảo?
