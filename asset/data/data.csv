@@ -1,0 +1,633 @@
+Chủ đề,Tag,Ques,Ans,Require
+,hello,"Xin chào
+Chào bạn
+Chào Candy
+Hi Candy
+Hello Candy
+Rất vui gặp bạn","Xin chào bạn nha.
+Xin chào, tôi có thể giúp gì cho bạn?","hello
+chào"
+,bye,"Chào tạm biệt
+Hẹn gặp lại
+Gặp bạn sau nhé
+Bye nha
+Bái bai
+Tôi hết câu hỏi rồi","Tạm biệt bạn.
+Mong sớm gặp lại bạn.",bye
+,open app,"Hãy mở app
+Tôi muốn mở app
+Giúp tôi mở ứng dụng
+Mở phần mềm",,
+,chrome,"Hãy mở chrome
+Hãy mở google
+Giúp tôi mở google chrome
+Tôi muốn tìm kiếm bằng google",,"chrome
+google"
+,word,"Hãy mở word
+Tôi muốn mở word
+Giúp tôi mở microsoft word",,word
+,excel,"Hãy mở excel
+Tôi muốn mở excel
+Giúp tôi mở microsoft excel",,excel
+,powerpoint,"Hãy mở powerpoint
+Tôi muốn mở powerpoint
+Giúp tôi mở microsoft powerpoint",,powerpoint
+,calc,"Hãy mở máy tính
+Giúp tôi mở máy tính
+Tôi muốn mở calculator",,
+,edge,"Hãy mở edge
+Giúp tôi mở microsoft edge
+Tôi muốn tìm kiếm trên microsoft edge",,edge
+,coccoc,"Hãy mở cốc cốc
+Giúp tôi mở cốc cốc
+Tôi muốn tìm kiếm trên cốc cốc",,cốc
+,wallpaper,"Tôi muốn thay đổi hình nền máy tính
+Giúp tôi đổi ảnh nền laptop
+Đổi hình nền máy tính thành hình bất kì",,
+,time,"Bây giờ là mấy giờ?
+Mấy giờ rồi nhỉ?
+Bây giờ là bao nhiêu giờ rồi?
+Cho tôi biết thời gian hiện tại",,
+,date,"Hôm nay là ngày mấy?
+Hãy cho tôi biết ngày hiện tại
+Bữa nay là ngày nào?",,
+,weather,"Thời tiết hôm nay thế nào?
+Bạn có biết thời tiết hôm nay thế nào không?
+Tôi muốn biết thời tiết hôm nay ra sao?",,"thời
+tiết"
+,wiki,"Tôi muốn nghe về định nghĩa
+Khái niệm",,
+,playsong,"Tôi muốn nghe nhạc
+Hãy mở nhạc
+Giúp tôi mở nhạc nhé",,nhạc
+,open website,Tôi muốn mở một trang web,,"web
+website"
+,search google,Tôi muốn tìm kiếm,,
+,me,"Bạn biết tôi là ai không?
+Đố bạn biết tôi là ai?
+Tôi tên là gì?
+Đố bạn biết được tên của tôi?",,
+Self,name,"Tên bạn là gì?
+Tên của bạn là gì?
+Bạn có thể cho tôi biết tên của bạn được không?
+Bạn là ai?
+Bạn giới thiệu mình đi?","Tôi tên là Candy.
+Gọi tôi là Candy nhé.",
+,fine,"Bạn khỏe không?
+Dạo này ổn không?
+Sức khỏe sao rồi?
+Bạn vẫn ok chứ?
+Bạn thế nào rồi?","Tôi khỏe lắm luôn, cảm ơn bạn đã quan tâm.
+Tôi vẫn ổn, cảm ơn bạn nhé.",
+,age,"Năm nay bạn bao nhiêu tuổi?
+Hiện tại bạn bao nhiêu tuổi?
+Bạn có thể cho tôi biết tuổi của bạn được không?
+Bạn mấy tuổi rồi?",Tôi đã được một tháng tuổi.,
+,relative,"Ai là người mà bạn cảm thấy thân nhất?
+Người mà bạn thân nhất?
+Gia đình bạn đâu?
+Người thân của bạn là ai?",Chính là bạn đó.,
+,gender,"Giới tính của bạn là gì?
+Bạn thuộc giới tính nào?
+Bạn có phải nữ không?
+Bạn có phải là nam không?
+Bạn là nam hay nữ?",Tôi thuộc mọi giới tính.,
+,feeling,"Bạn thấy tôi thế nào?
+Bạn nhìn tôi thấy thế nào?
+Bạn cảm nhận như thế nào về tôi?
+Tôi trông như thế nào?
+Bạn cảm thấy tôi xinh không?
+Bạn cảm nhận về tôi như thế nào?
+Tôi có xinh không?
+Bạn thấy tôi xinh gái không?
+Tôi có đẹp trai không?",Bạn rất đẹp luôn.,
+,communication,"Làm trợ lý ảo có mệt không?
+Làm người hay làm trợ lý ảo mệt hơn nhỉ?
+Có bao giờ bạn cảm thấy mệt mỏi không?",Trò chuyện cùng bạn thì tôi không bao giờ mệt cả.,
+,job,"Bạn làm công việc gì?
+Bạn có thể giúp gì cho tôi?
+Bạn làm được những gì?
+Bạn thực hiện được những tính năng nào?","Tôi có thể giao tiếp, cho biết thời gian hiện tại, khởi chạy ứng dụng hệ thống, tìm kiếm và mở bất kì trang web theo yêu cầu, phát một bài hát, nêu các định nghĩa, thay đổi hình nền máy tính.",
+,love,"Bạn có bạn gái chưa?
+Bạn có bạn trai chưa?
+Bạn đã từng yêu ai chưa?
+Bạn có yêu ai chưa?
+Bạn đã từng thích ai chưa?","Tôi làm gì có người yêu, tôi còn đang sợ ế đây này.",
+,money,"Cho tôi đáo tạo một tí được không?
+Cho tôi mượn ít tiền được không?
+Cho tôi vay một ít tiền được không?
+Cho tôi mượn vài đồng được không?
+Bạn cho tôi vay vài đồng nha?
+Cho tôi mượn một ít tiền nha?
+Bạn cho tôi mượn tiền được không?",Tôi làm gì có tiền mà cho bạn mượn.,
+Du lịch,country,"Bạn có thể cho tôi biết đâu là nơi đáng sống nhất trên thế giới không?
+Bạn có biết quốc gia nào được mệnh danh là nơi đáng sống nhất trên thế giới?
+Đâu là nơi đáng sống nhất trên thế giới?
+Quốc gia nào đáng sống nhất trên thế giới?
+Tôi muốn biết quốc gia nào là nơi đáng sống nhất trên thế giới?",Quốc gia đáng sống nhất trên thế giới là Auckland.,
+,beautiful country,"Bạn có thể cho tôi biết đất nước nào xinh đẹp nhất trên thế giới không?
+Bạn có biết quốc gia nào xinh đẹp nhất trên thế giới?
+Đâu là nơi xinh đẹp nhất trên thế giới?
+Quốc gia nào xinh đẹp nhất trên thế giới?
+Tôi muốn biết quốc gia nào là nơi xinh đẹp nhất trên thế giới?","Theo như tôi biết, Thụy Sĩ và Phần Lan là quốc gia xinh đẹp nhất.",
+,city,"Thành phố mộng mơ ở đâu?
+Thành phố có khí hậu ôn hòa mát mẻ quanh năm tại Việt Nam ở đâu?
+Nơi được mệnh danh là thành phố Mộng Mơ tại Việt Nam là nơi nào?
+Thành phố Ngàn Hoa là thành phố nào?",Thành phố Đà Lạt thuộc tỉnh Lâm Đồng,
+,sea,"Nơi nào được gọi là hòn ngọc của biển Đông?
+Hòn ngọc biển Đông là ở đâu?
+Đảo nào được mệnh danh là Hòn ngọc biển Đông?
+Hòn ngọc biển Đông là nơi nào?",Là đảo Phú Quốc,
+,travel vietnam,"Những địa điểm du lịch nổi tiếng tại Việt Nam là gì?
+Các địa điểm du lịch nổi tiếng nhất Việt Nam ở đâu?
+Tôi nên ghé qua những địa điểm du lịch nào ở Việt Nam?
+Bạn có biết Việt Nam có những địa điểm du lịch gì?
+Tôi nên ghé qua những địa điểm du lịch nào ở Việt Nam?","Chà, Việt Nam có rất nhiều địa điểm du lịch như Phú Quốc, Bà Nà Hill, Động Phong Nha, Vịnh Hạ Long. Bạn hãy ghé thăm nhé.",
+,travel time,"Khi nào tôi nên đi du lịch Châu Âu?
+Lúc nào thì thời tiết thích hợp để đi du lịch Châu Âu?
+Tôi nên đi du lịch Châu Âu khi nào?
+Nên đi du lịch Châu Âu khi nào?
+Khi nào là thời điểm thích hợp để đi du lịch Châu Âu?","Tháng 5 đến tháng 7, mùa đẹp nhất để đi du lịch châu Âu là vào đầu hè.",
+,travel alone,"Nên chuẩn bị những gì khi đi du lịch một mình?
+Cách gì để đi du lịch một mình hiệu quả?
+Tôi cần chuẩn bị những gì khi đi du lịch một mình?
+Những gì cần lưu ý khi đi du lịch một mình?
+Đi du lịch một mình cần quan tâm điều gì?","Hãy kết thân và hỏi thăm người địa phương, nhưng đừng quá cả tin, vì an toàn là trên hết nhé.",
+Học tập,app,"Ứng dụng nhắc nhở học tập là gì?
+Ựng dụng lên lịch học là gì?
+Ứng lập kế hoạch học tập là gì?",TickTick: Things & Tasks To Do,
+,manage time,"Cách quản lý thời gian học tập là gì?
+Làm sao để quản lý thời gian học tập thật hiệu quả?
+Cách sắp xếp thời gian học hợp lý là gì?","Bạn cần liệt kê những việc quan trọng cần hoàn thành trong ngày, các khung giờ để học tập làm việc, vui chơi ăn uống, ngủ nghỉ, vào cuối ngày bạn thống kê mọi thứ trên 1 trang giấy hoặc ghi chú trên điện thoại là bạn đã làm được những gì, cuối cùng bạn note những việc làm rất tốt và những việc chưa tốt để cải thiện nhé.",
+,method,"Phương pháp rèn luyện thói quen học tập là gì?
+Cách rèn kỷ luật học tập hàng ngày là gì?
+Làm sao để có thói quen ngồi vào bàn học mỗi ngày?
+Phương pháp rèn luyện tính kỷ luật học tập là gì?
+Cách để chăm học hơn là gì?","Bật mí cho bạn rằng tính kỷ luật hoặc một thói quen có thể dễ dàng hình thành sau 21 ngày, vì vậy bạn hãy thực hiện nó một cách liên lục và điều đặn.",
+,notebook,"Sách tổng hợp lý thuyết, công thức môn học cấp ba là gì?
+Sách tóm tắt lý thuyết và công thức của các môn học cấp ba là gì?
+Sách lý thuyết các môn học cấp ba ngắn gọn, dễ hiểu là gì?",Đó là sách Sổ tay tra cứu nhé.,
+,listening,"Luyện nghe tiếng anh bằng cách nào cho hiệu quả?
+Phương pháp luyện nghe tiếng anh là gì?
+Luyện nghe tiếng anh chữa điếc gồm những bước nào?
+Phương pháp đúng để luyện nghe tiếng anh là gì?
+Cách luyện nghe tiếng anh đơn giản là gì?","Hãy nghe những gì bạn thích - loại bỏ áp lực nghe từng từ, viết từ vựng ra giấy, học đi lại nhiều lần để tăng vốn từ. Cố gắng nghe tiếng anh mỗi ngày để tạo môi trường học tiếng anh liên tục.",
+,high school,"Những điều cần lưu ý khi đi thi đại học là gì?
+Học sinh cần chuẩn bị những gì khi đi thi đại học?
+Các điều cần ghi nhớ khi đi thi đại học là gì?
+Học sinh cần làm gì trước khi đi thi đại học?
+Những lưu ý quan trọng cần chuẩn bị khi đi thi đại học là gì?","Hãy chuẩn bị giấy tờ cần thiết như giấy báo dự thi, chứng minh nhân dân và những vật dụng cần thiết như bút bi xanh, bút chì, máy tính, tẩy, thước kẻ, thước đo độ.
+",
+,ielts,"Cần chuẩn bị những gì cho kỳ thi IELTS?
+Khi đi thi Ielts cần chuẩn bị những gì?
+Những thứ quan trọng cần lưu ý và chuẩn bị khi đi thi Ielts là gì?
+Mang gì khi đi thi Ielts?
+Bạn cần mang theo những gì khi thi IELTS?","Nắm vững thông tin về bài thi IELTS, thường xuyên luyện tập. giữ vững tinh thần trước ngày thi, mang đủ giấy tờ cần thiết. Đến dự thi IELTS sớm, hãy bình tĩnh, tự tin để vượt qua nó nhé..",
+Trò Chơi,game,"Game gì được nhiều người biết đến?
+Game nào hiện nay nhiều người chơi?
+Game chiến thuật nhiều người chơi hiện nay?
+Game được chơi nhiều hiện nay?
+Game phố biến nhất hiện nay là game gì?",Theo candy là game PUBG.,
+,relax game,"Những thể loại game giúp giảm căng thẳng?
+Game giải trí nhẹ nhàng là gì?
+Các thể loại game giải trí khi mệt mỏi là gì?
+Nên chơi những thể loại game gì khi mệt mỏi?
+Có các thể loại game gì giúp giải trí?","Hãy thử chơi game A Short Hike nhé.
+Hãy thử chơi game Euro Truck Simulator 2 nhé.
+Hãy thử chơi game The Hunter: Call of the Wild nhé.",
+,game effect,"Ảnh hưởng tiêu cực từ việc chơi game quá lâu là gì?
+Chơi game quá lâu sẽ gây hại gì cho cơ thể?
+Lạm dụng game quá mức gây ảnh hưởng thế nào đến sức khỏe và tâm trí?
+Những tác hại khôn lường từ việc chơi game quá lâu là gì?
+Vì sao chơi game quá lâu lại tiềm ẩn nguy hiểm khó tránh?","Nghiện game có thể gây ra hậu quả đáng kể về sức khỏe, cuộc sống và tác động trực tiếp tới não bộ và sức khỏe tâm thần.",
+,relax,"Các hoạt động giải trí tốt cho sức khỏe là gì?
+Những bộ môn giải trí tốt cho sức khỏe là gì?
+Hoạt động giải trí thế nào là lành mạnh?
+Muốn giải trí lành mạnh có thể thử qua những hoạt động gì?","Đọc sách, nghe nhạc, dọn dẹp nhà cửa, xem phim.
+",
+,game benefit,"Chơi game có thể hỗ trợ những gì?
+Tác động tích cực của việc chơi game có khoa học là gì?
+Vì sao chơi game mang lại lợi ích?
+Những điều tích cực từ việc chơi game là gì?
+Chơi game giúp cho con người nâng cao khả năng gì?","Chơi game giúp tăng cường trí nhớ, mở rộng tư duy và tăng khả năng sáng tạo. Đồng thời hỗ trợ cải thiện khả năng phản xạ và tính kiên trì, tăng khả năng làm việc nhóm, cải thiện thị lực, tầm nhìn.",
+,game pubg,"Năm ra mắt game PUBG là năm nào?
+Game PUBG ra mắt vào năm mấy?
+Game PUBG có phải ra mắt vào năm 2018 hay không?
+Game PUBG ra mắt khi nào?
+Năm nào game PUBG được ra mắt?
+Ra mắt game PUBG năm bao nhiêu?",Game PUBG được ra mắt vào năm 2018.,
+,platform pubg,"Điện thoại và máy tính chơi được PUBG không?
+Máy tính và điện thoại chơi được PUBG không?
+Game PUBG chơi được trên điện thoại không?
+Game PUBG chơi được trên máy tính không?
+Game PUBG chơi được trên cả máy tính và điện thoại không?",Theo Candy biết là được.,
+,system pubg,"Nền tảng nào chơi được game PUBG?
+Game PUBG chơi được trên nền tảng nào?
+Nền tảng nào chơi được game PUBG?",Theo Candy biết Game PUBG chơi được trên 2 nền tảng là IOS và Android.,
+,fun game,"Game PUBG chơi có vui không?
+Chơi game PUBG vui không?
+Chơi game PUBG có vui không?",Tất nhiên là vui rồi.,
+Gia đình,parents,"Làm thế nào để lắng nghe nỗi lòng của cha mẹ?
+Cách lắng nghe cha mẹ hiệu quả là gì?
+Làm thế nào để có thể thấu hiểu cha mẹ?
+Cách để cha mẹ và con cái thấu hiểu lẫn nhau là gì?
+Con cái nên làm gì để thấu hiểu cha mẹ?","Lắng nghe, trao đổi với ba mẹ những điều mình đã làm và đang làm, dành ra khoảng thời gian cố định mỗi ngày cho gia đình.",
+,family dinner,"Ăn tối cùng gia đình quan trọng ra sao?
+Vì sao nên ăn tối cùng gia đình?
+Có nên về nhà ăn tối cùng gia đình không?
+Ngày nào cũng cùng gia đình ăn tối thì có nên không?
+Niềm hạnh phúc khi cùng gia đình ăn tối là gì?","Bữa cơm gia đình cũng chính là chìa khóa của hạnh phúc, bữa cơm ấy sẽ gắn kết các thành viên trong gia đình để rồi mỗi người tự thấy mình được chở che, được quan tâm. Hãy ăn tối cùng gia đình mỗi ngày bạn nhé.",
+,family time,"Tại sao phải dành thời gian cho gia đình của chính mình?
+Lợi ích của việc dành thời gian cho gia đình?
+Vì sao dành thời gian cho gia đình là điều cần ưu tiên?
+Dành thời gian cho gia đình đem lại lợi ích tuyệt vời gì?
+Vì sao khoa học chứng minh dành thời gian bên gia đình mình sẽ đem lại nhiều lợi ích khoa học vô cùng to lớn?","Tăng cường mối quan hệ, giảm căng thẳng, tạo nhiều khoảnh khắc đẹp giữa cha mẹ và con cái.
+",
+,family gift,"Món quà ý nghĩa tặng gia đình là gì?
+Những món quà tặng cho gia đình đơn giản nhưng tràn ngập ý nghĩa là gì?
+Những món quà sinh nhật tặng gia đình ý nghĩa mà thiết thực là gì?
+Gợi ý món quà tặng gia đình ý nghĩa, làm họ vui lòng là gì?
+Nên tặng quà gì cho gia đình thật ý nghĩa và thiết thực?","Tủ Lạnh, Máy Giặt, Máy Rửa Bát, Nồi Chiên Không Dầu
+Máy Lọc Không Khí, Bộ Ấm Trà. Mẹ của bạn sẽ rất vui đấy.",
+,family travel,"Những địa điểm du lịch hấp dẫn cùng gia đình là gì?
+Du lịch gia đình nên đi đâu?
+Đâu là địa điểm du lịch cho gia đình cùng nhau vui xuân?
+Địa điểm du lịch nào nên đi cùng gia đình?
+Gợi ý những địa điểm du lịch lý tưởng dành cho gia đình ở đâu?","Mùa hè ta đi du lịch biển nghỉ dưỡng ở Cô Tô, Phú Quốc.
+Du lịch vùng cao khí hậu mát mẻ thì có Sapa, Đà Lạt, Buôn Ma Thuột.
+Du lịch ngắm kiến trúc xưa cũ ở Cố Đô Huế và Dinh thự công tử Bạc Liêu.",
+kiến thức,book,"Quyển sách nào được cho là hay nhất trên thế giới?
+Sách hay nhất mọi thời đại tên là gì?
+Quyển sách được đọc giả cho là hay nhất?
+Tới thời điểm hiện tại, đâu là quyển sách hay nhất?
+Sách hay nhất tên gì?
+Sách hay nhất có tên là gì?
+Theo các bình chọn thì đâu là quyển sách hay nhất?",Theo nhiều trang bình chọn thì Đắc Nhân Tâm - Dale Carnegie được cho là 1 trong top 10 quyển sách hay nhất mọi thời đại.,
+,good book,"Những quyển sách hay để rèn luyện bản thân là gì?
+Những quyển sách giúp khai mở trí óc là gì?
+Những cuốn sách phát triển bản thân nên đọc một lần trong đời là gì?
+Nên đọc những cuốn sách gì để rèn luyện và phát triển bản thân?
+Những cuốn sách hay nên đọc về phát triển và rèn luyện bản thân là gì?","Hãy đọc Đắc Nhân Tâm, Khi hơi thở hóa thinh không, Dạy con làm giàu nhé, nó sẽ có ích cho bạn đấy.",
+,reading habit,"Làm thế nào để duy trì thói quen đọc sách?
+Cách gì giúp Nuôi Dưỡng Thói Quen Đọc Sách?
+Cần làm gì để hình thành thói quen đọc sách hiệu quả?
+Xây dựng thói quen đọc sách hiệu quả là gì?
+Cách hình thành thói quen đọc sách là gì?","Luôn mang theo sách ở bên người, chọn sách phù hợp và đọc nhiều thể loại sách bạn nhé.",
+,reading way,"Phương pháp đọc sách hiệu quả là gì?
+Cách đọc sách hiệu quả là gì?
+Làm thế nào để đọc sách cho hiệu quả?
+Bí quyết để đọc sách hiệu quả là gì?
+Cách đọc sách hiệu quả, nhớ lâu là gì?","Tránh đọc nhảy trở lại quá nhiều, hãy cố gắng hiểu ý nghĩa của cả đoạn văn, đừng để ý đến từng từ, từng câu.",
+,rich habit,"Người giàu có những thói quen gì?
+Người giàu sẽ làm gì để cuộc sống của họ tốt hơn mỗi ngày?
+Những thói quen để trở nên giàu có là gì?
+Những thói quen phổ biến của người giàu là gì?
+Những việc nhỏ người giàu thường làm để ngày càng giàu lên là gì?","Người giàu luôn tìm đúng người, làm đúng việc, học tập và làm việc mỗi ngày.",
+,poor habit,"Những thói quen người nghèo khó bỏ là gì?
+Những thói quen của ""con nhà nghèo"" là gì?
+Các thói quen khiến con người trở nên nghèo ngay cả khi có thu nhập khá là gì?
+Những thói quen khiến con người mãi nghèo dù thu nhập khá là gì?
+Những thói quen như thế nào khiến con người ""nghèo vẫn nghèo""?","Than thân trách phận, đo sự thành công bằng tiền bạc và thích so sánh mình với người khác.",
+,zodiac,"Có tất cả bao nhiêu cung Hoàng đạo?
+Tổng có bao nhiêu cung Hoàng đạo?
+Số cung Hoàng đạo trên biểu đồ sao?
+Có bao nhiêu cung Hoàng đạo trên biểu đồ sao?",Có tất cả 12 cung Hoàng Đạo,
+,virgo,"Biểu tượng của cung Xử Nữ là gì?
+Cung Xử Nữ có biểu tượng là gì?
+Biểu tượng đại diện cho cung Xử Nữ?
+Cung Xử Nữ được khắc họa hình ảnh như thế nào?",Cung Xử Nữ có biểu tượng là một người trinh nữ.,
+,shoes,"Tôi nên mua giày ở hãng nào?
+Hãng giày nào đẹp nhất?
+Hãng giày nào bán chạy nhất?
+Tôi nên chọn mua giày ở đâu?",Theo tôi là hãng Nike nhé.,
+,building,"Toà nhà cao nhất thế giới ở đâu?
+Đâu là toà nhà cao nhất thế giới?
+Trên thế giới đâu là toà nhà cao nhất?
+Toà nhà nào được mệnh danh là cao nhất trên thế giới?
+Đâu là toà nhà được cho là cao nhất thế giới?","Đến thời điểm hiện tại, Burj Khalifa ở Dubai là tòa nhà cao nhất thế giới.",
+,majors,"Những ngành học ra có nhiều tiền nhất là gì?
+Ngành học có tương lai phát triển là gì?
+Nên học ngành gì để có lương cao?",Nên học ngành Thương Mại Điện Tử để có lương cao.,
+,cheap majors,"Ngành học học ít tốn kém nhất là gì?
+Những ngành học ít tốn chi phí nhất là gì?
+Nghèo nên học ngành gì để tiết kiệm?","Ngành Marketing – Ngành học kiếm nhiều tiền
+Ngành Quản lý nhân sự – Ngành học thu nhập cao
+Phi công – Nghề hái ra tiền",
+,shortage resources,"Ngành học đang thiếu nhân lực là gì?
+Những ngành học đang cần người làm nhất là gì?
+Ngành học đang nổi nhưng thiếu nhân lực nhất là gì?
+Học ngành gì mà các nhân lực đang cần người nhất?","Công nghệ thông tin, Thiết kế đồ họa, Marketing và Quan hệ công chúng.",
+,online,"Những ngành học nào có thể làm online là gì?
+Học ngành nào có thể làm việc tại nhà?","Học ngành Designer, Editor, Dịch thuật, Bán hàng online, Giáo viên dạy online có thể làm tại nhà.",
+,river,"Sông rộng nhất thế giới ở đâu?
+Đâu là sông rộng nhất thế giới?
+Trên thế giới đâu là con sông rộng nhất?
+Đâu là sông được cho là rộng nhất thế giới?",Đó là sông Amazon với diện tích khoảng 5.500.000 km²,
+,lake,"Sông dài nhất thế giới ở đâu?
+Đâu là sông dài nhất thế giới?
+Trên thế giới đâu là sông dài nhất?
+Sông nào được cho là dài nhất thế giới?",Sông Nile có độ dài 6.650 km là con sông dài nhất.,
+Tình cảm,love yourself,"Yêu thương bản thân là gì?
+Tự yêu bản thân là gì?
+Làm cách nào yêu thương bản thân tốt hơn?
+Những cách đơn giản giúp thêm yêu bản thân là gì?
+Những cách để tự yêu bản thân là gì?","Yêu bản thân là luôn ưu tiên niềm vui và sự an yên từ trong nội tâm cho đến trân trọng cuộc sống bên ngoài của chính mình, hỗ trợ sự phát triển về thể chất, tâm lý và tinh thần của bản thân mỗi người.",
+,dating,"Hẹn hò thì thì nên đi đâu chơi?
+Hẹn hò thì nên đi những nơi nào?
+Những nơi phù hợp để hẹn hò?
+Những địa điểm các cặp hẹn hò nhất định phải tới?
+Những nơi thú hút các cặp hẹn hò?","Hãy gặp nhau tại các quán cafe trong một buổi chiều nhẹ nhàng, thư thái hoặc chơi game giải tỏa stress, cùng đạp xe quanh nơi yên tĩnh, đi mua sắm cùng nhau.",
+,overcome fear,"Làm thế nào để vượt qua sự sợ hãi và lo lắng?
+Làm Thế Nào Để Vượt Qua Nỗi Sợ Của Chính Mình?
+Làm Sao Để Vượt Qua Nỗi Sợ Hãi?
+Những cách giúp vượt qua nỗi sợ hãi của bản thân là gì?
+Những cách vượt qua nỗi sợ hữu hiệu nhất là gì?","Có lẽ bạn đang sợ hãi, không sao, hãy tiếp xúc với nỗi sợ hãi của bạn và đối mặt với nó, rồi bạn sẽ vượt qua. Tôi tin bạn.",
+,find love,"Những lời khuyên giúp tìm thấy người yêu?
+Đâu là cách để tìm ra người phù hợp với mình?
+​Người độc thân làm thế nào để tìm được người phù hợp với mình?
+Những điều quan trọng giúp tìm được người phù hợp với mình?
+Cách tìm người yêu phù hợp là gì?",Hãy liệt kê ra những điểm bạn yêu cầu ở đối phương và hãy thử hẹn hò với một ai đó.,
+,change,"Có nên thay đổi bản thân vì người mình yêu không?
+Một người có nên thay đổi vì tình yêu không?
+Có nên vì người mình yêu thương mà thay đổi?
+Có nên thay đổi để hoàn thiện vì người mình yêu?
+Liệu có nên thay đổi để phù hợp với người mình yêu thương?","Nên nhé, nếu điều đó giúp bạn phát triển và bạn cảm thấy hạnh phúc.",
+Món Ăn,food,"Bạn muốn ăn món gì?
+Bạn chọn món gì?
+Bạn ăn gì?
+Bạn thích ăn vị gì?
+Vị món ăn bạn thích ăn nhất là gì?","Đừng trêu tôi chứ, tôi ăn thế nào được.",
+,da lat food,"Ớt Đà Lạt còn có tên gọi là gì?
+Thực phẩm chứa nhiều vitamin A là gì?
+Loại ớt nào không cay?
+Ớt không cay là ớt gì?","Bạn thử ớt chuông, nó không cay đâu.",
+,protein food,"Loại thực phẩm nào chứa nhiều Protein nên ăn khi giảm cân?
+Thịt nào giàu Protein nên ăn khi giảm cân?
+Thực phẩm có thể ăn để giảm cân là gì?
+Giảm cân nên ăn loại thịt nào?",Thịt gà nhé.,
+,plants,"Thực vật nào tốt cho sức khỏe?
+Nên tập cho em bé ăn loại rau nào? 
+Loại thực vật nào chứa nhiều loại Vitamin?
+Thực phẩm rau xanh chứa nhiều chất chống oxy hóa là gì?","Bông cải xanh chứa rất nhiều vitamin, tôi mong là bạn sẽ thích nó.",
+,good food,"Loại thực phẩm giúp bổ máu?
+Thiếu máu nên ăn loại thực phẩm nào?
+Để bổ máu nên ăn loại thịt nào?
+Loại thịt nào ăn giúp bổ máu?",Thịt bò nhé.,
+,vietnam food,"Món gì ngon ở việt nam?
+Món ngon ở việt nam?
+Ở việt nam ăn món gì ngon?
+Món ăn ngon ở việt nam có gì?
+Việt nam có gì ăn ngon?","Việt Nam có rất nhiều món ngon, đặc biệt nhất là phở với bánh mì.",
+,cake,"Ở Vũng tàu ăn bánh gì ngon?
+Bánh gì ngon ở vũng tàu?
+Ngoài biển vũng tàu ăn bánh gì ngon?
+Vũng tàu ăn bánh gì ngon?
+Ăn bánh gì ngon ở vùng tàu?
+Bánh gì ngon ở vùng tàu?",Nếu bạn ở vùng tàu thì ăn bánh khọt là ngon nhất nhé.,
+,noodle,"Bún gì nên thử ở Hà Nội?
+Món bún gì nên ăn thử ở Hà Nội?
+Ăn thử bún gì ở Hà Nội?
+Loại bún gì nên thử ở Hà Nội?
+Loại bún nên ăn thử ở Hà nội là gì?",Tôi nghĩ bạn nên ăn thử bún chả Hà Nội.,
+,relax food,"Bị căng thẳng nên ăn gì?
+Các món ăn giúp tinh thần thoải mái là gì?
+Nên ăn gì để thư giãn tâm trí và giảm căng thẳng?
+Các thực phẩm giúp giảm căng thẳng, mệt mỏi?
+Ăn gì để thư giãn đầu óc khi căng thẳng mệt mỏi?","Nên ăn khoai lang, vì khoai lang là thực phẩm giúp cải thiện tâm trạng và giảm stress hiệu quả, và kết hợp với kim chi, trứng, rau chân vịt.",
+Địa Lí,population,"Việt Nam hiện tại có dân số là bao nhiêu?
+Dân số Việt Nam hiên tại là bao nhiêu?
+Việt Nam hiện tại có dân số là bao nhiêu?
+Hiện tại dân số Việt Nam là bao nhiêu?",Theo Candy biết dân số hiện tại của Việt Nam là: 99.176.137 người.,
+,archipelago,"Trường Sa và Hoàng Sa của nước nào?
+Nước nào sở hữu Hoàng Sa và Trường Sa?
+Quần đảo Hoàng Sa và Trường Sa của nước nào?
+Trường Sa và Hoàng Sa là của Việt Nam đúng không?",Quần đảo Hoàng Sa và Trường Sa là của Việt Nam.,
+,longest coastline,"Đường bờ biển dài nhất nằm ở tỉnh nào?
+Đường bờ biển dài nhất ở tỉnh nào?
+Tỉnh có đường bờ biển dài nhất là tỉnh nào?
+Tỉnh có đường bờ biển dài nhất?",Đường bờ biển dài nhất nằm ở tỉnh Khánh Hòa.,
+,province,"Tỉnh nào có diện tích lớn nhất ở Việt Nam?
+Tỉnh có diện tích lớn nhất?
+Tỉnh có diện tích lớn nhất là tỉnh nào?
+Khu vực có diện tích lớn nhất thuộc tỉnh nào?",Nghệ An là tỉnh có diện tích lớn nhất Việt Nam.,
+,gdp,"Tỉnh có GDP đầu người cao nhất?
+Tỉnh có GDP đầu người cao nhất thuộc tỉnh nào?
+GDP đầu người cao nhất thuộc tỉnh nào?
+GDP đầu người thuộc tỉnh nào là cao nhất?",Theo Candy biết là tỉnh Bình Dương.,
+Phim Ảnh,video,"Video có lượt xem cao nhất tên gì?
+Lượt xem video cao nhất là video gì?
+Tên video có lượt xem cao nhất là gì?",Video có lượt xem cao nhất đến thời điểm hiện tại là Baby Shark Dance.,
+,revenue movie,"Doanh thu của bộ phim cao nhất hiện nay tên gì?
+Bộ phim có doanh thu cao nhất?
+Bộ phim có doanh thu cao nhất hiện nay?
+Bộ phim có doanh thu cao nhất hiện nay tên gì?
+Phim có doanh thu cao nhất hiện nay?
+Phim có doanh thu cao nhất hiện nay tên gì?",Theo Candy biết là “Avatar” 2019.,
+,famous video,"Video có lượt thích cao nhất hiện nay tên gì?
+Lượt thích cao nhất video hiện nay tên gì?
+Hiện nay video có lượt thích cao nhất là video gì?
+Video có lượt thích cao nhất tên gì?",Là MV Despacito.,
+,pop start,"Ông hoàng nhạc pop là ai?
+Ai là ông hoàng nhạc pop?
+Người được mệnh danh là ông hoàng nhạc pop là ai?
+Ai là người được mệnh danh là ông hoàng nhạc pop?",Michael Jackson,
+,mona lisa,"Bức họa Mona Lisa là của ai?
+Bức tranh nổi tiếng thế giới nàng Mona Lisa là của ai?
+Bức họa Bữa ăn tối cuối cùng là của tác giả nào?
+Ai đã vẽ ra bức tranh Bữa ăn tối cuối cùng?",Là họa sĩ nổi tiếng Leonardo di ser Piero da Vinci.,
+,inventor,"Ai là người phát minh ra dòng điện xoay chiều?
+Dòng điện xoay chiều được phát minh bởi ai?
+Điện xoay chiều là phát minh của ai?
+Phát minh ra dòng điện xoay chiều là ai?",Nikola Tesla là người đã phát minh ra dòng điện xoay chiều. Thật là một phát minh vĩ đại bạn nhỉ.,
+,actor,"Diễn viên nổi tiếng nhất thế giới 2022 tên gì?
+Diễn viên nổi tiếng nhất thế giới 2022 tên là gì?
+Năm 2022 diễn viên nổi tiếng nhất thế giới là ai?
+Năm 2022 diễn viên nổi tiếng nhất thế giới tên gì?",Theo Candy biết là diễn viên Thành Long.,
+,oscar,"Phim hoạt hình đoạt giải Oscar năm 2001 là gì?
+Phim hoạt hình của Nhật Bản đoạt giải Oscar năm 2001 là gì?
+Phim hoạt hình đoạt giải Oscar của Nhật Bản năm 2001 là gì?
+Phim hoạt hình đoạt giải Oscar năm 2001 của Nhật Bản là gì?",Là phim Vùng đất linh hồn – Spirited Away,
+,cartoon movie,"Phim hoạt hình thành công nhất thế kỷ 20 là gì?
+Bộ phim hoạt hình huyền thoại vào thế kỉ 20 là gì?
+Thế kỷ 20 có phim hoạt hình nào nổi bật là gì?
+Phim hoạt hình được cho là nổi bật vào thế kỉ 20 là gì?",Tom and Jerry,
+,viet nam movie,"Bộ phim hay nhất Việt Nam hiện nay tên gì?
+Bộ phim Việt Nam hay nhất hiện nay là gì?
+Bộ phim Việt Nam hay nhất hiện nay tên gì?
+Tên bộ phim Việt Nam hay nhất hiện nay là gì?",Theo nhiều người bình chọn thì phim hay nhất Việt Nam hiện nay là Về nhà đi con.,
+Truyện Tranh,good manga,"Bộ truyện hay nhất hiện tại tên gì?
+Hiện tại bộ truyện hay nhất tên gì?
+Bộ truyện được xem nhiều nhất hiện nay là gì?",Candy nghe nói bộ truyện hay nhất hiện nay là One Piece.,
+,one piece author,"Tác giả của bộ truyện “One Piece” là ai?
+Tác giả của bộ truyện “One Piece” tên là gì?
+Tác giả bộ truyện nổi tiếng thế giới “One Piece” là ai?
+Tác giả bộ truyện nổi tiếng thế giới “One Piece” tên gì?",Theo Candy biết tác giả của One Piece là Oda Eiichiro.,
+,one piece,"Năm nào “One Piece” được ra mắt?
+Năm nào truyện “One Piece” được ra mắt?
+“One Piece” được ra mắt khi nào?
+Bộ truyện “One Piece” ra mắt vào năm nào?",Bộ phim One Piece được ra mắt vào năm 1997.,
+,manga,"Trẻ em thích đọc truyện gì nhất?
+Truyện trẻ em thích nhất tên gì?
+Bộ truyện nào trẻ em đọc nhiều nhất?
+Bộ truyện trẻ em đọc nhiều nhất?",Trẻ em thích đọc truyện Doraemon nhất.,
+,doraemon author,"Tác giả của truyện “Doraemon” tên gì?
+“Doraemon” được ai sáng tác?
+Ai là người sáng tác bộ truyện “Doraemon”?
+Bộ truyện “Doraemon” được sáng tác bởi ai?",Tác giả bộ truyện Doraemon là Fujiko Fujio.,
+làm đẹp,vitamin,"Nên dùng loại vitamin nào để giúp trắng da?
+Vitamin nào có thể giúp da trắng sáng?
+Chất chứa trong mỹ phẩm giúp giảm tàn nhang?
+Chất giúp chống oxy hóa da?
+Bị sạm da nên dùng loại mỹ phẩm có chứa thành phần nào?
+Thành phần nào trong mỹ phẩm giúp da trở nên trắng sáng?
+Da bị tàn nhan tối màu nên xài mỹ phẩm có chứa thành phần gì?",Vitamin C,
+,skin,"Sản phẩm giúp trị mụn da là gì?
+Da bị mụn thì nên xài sản phẩm nào?
+Thành phần chăm sóc da ngăn ngừa mụn là gì?
+Phải sử dụng sản phẩm gì để ngừa mụn?
+Sản phẩm giúp ngăn ngừa mụn cho các loại da là gì?
+Sản phẩm làm sạch da và ngăn ngừa mụn là gì?
+Sản phẩm giúp da sạch sâu là gì?",AHA và BHA,
+,Skin care,"Làm sao để cải thiện tình trạng khô da?
+Khi khô da thì cần làm gì?
+Khi thời tiết lạnh thì làm gì để không nứt da?
+Da khô bong tróc thì cần làm gì?
+Làm gì để tránh tình trạng khô da?",Cấp ẩm cho da,
+,hair,"Cách để có tóc đẹp là gì?
+Cách để tóc được mượt mà là gì?
+Làm thế nào để cải thiện tóc?
+Cần làm để có mái tóc đẹp hơn?
+Cách để có tóc khoẻ mạnh là gì?",Mát xa da đầu thường xuyên và dưỡng ẩm cho tóc.,
+,famous hair,"Mẫu tóc hot nhất hiện nay là gì?
+Các mẫu tóc đang hot trend là gì?
+Các kiểu tóc đang được ưa chuộng là gì?
+Các kiểu tóc đang được yêu thích nhất là gì?","Tóc uốn cụp mái bằng.
+Tóc dài mái lưa thưa.
+Tóc nữ ngắn uốn xoăn.
+Tóc nữ xoăn sóng lượn lọn to.",
+,hair cut,"Nên cắt tóc vào ngày nào?
+Ngày nào nên và không nên cắt tóc?
+Ngày hợp phong thủy để cắt tóc là ngày nào?
+Cắt tóc vào ngày nào để may mắn?
+Những ngày phù hợp để cắt tóc là ngày gì?","Nên cắt tóc vào mùng 3, mùng 5, mùng 7 và hạn chế cắt tóc vào mùng 1, mùng 2, mùng 4 để gặp nhiều may mắn và tránh xui xẻo.",
+Âm nhạc,quoc ca,"Ai là người sáng tác ra quốc ca Việt Nam?
+Tiến quân ca do ai sáng tác?
+Nhạc sĩ nào sáng tác ra quốc ca Việt Nam?",Tiến quân ca do nhạc sĩ Văn Cao sáng tác.,
+,rap,"Bài hát Mang Tiền Về Cho Mẹ của ai?
+Bài hát Mang Tiền Về Cho Mẹ của ai?
+Rapper nào sáng tác bài Mang Tiền Về Cho Mẹ?",Bài hát Mang Tiền Về Cho Mẹ của Đen Vâu và do anh sáng tác.,
+,app music,"Ứng dụng mọi người hay nghe nhạc là gì?
+Mọi người hay nghe nhạc ở đâu?
+Ứng dụng dùng để nghe nhạc?
+Bạn hay nghe nhạc trên ứng dụng nào?",Tôi thấy mọi người thường nghe nhạc trên ứng dụng YouTube.,
+,sing,"Bạn hát được không?
+Bạn hát hay không?
+Bạn hát cho tôi nghe được không?
+Bạn hay hát thể loại nào?
+Bạn hát được nhạc việt không?
+Bạn biết hát chứ?","Xin lỗi tôi vẫn chưa biết hát, nhưng tôi có thể giúp bạn mở nhạc.",
+Công việc,occupation,"Kiếm việc làm trên trang website nào là tốt nhất?
+Các trang mạng tìm kiếm việc làm uy tín là gì?
+Kiếm việc trên đâu thì ít bị lừa đảo?
+Nơi kiếm việc làm tốt nhất hiện nay là gì?","Nên kiếm việc làm trên các trang như Top CV, YBox, VLance, Jobstreet là uy tín nhé.",
+,skills,"Những kỹ năng cần thiết khi làm văn phòng là gì?
+Những kỹ năng cần thiết khi đi làm là gì?
+Các sếp thích nhân nhiên có kỹ năng làm việc như thế nào?
+Kỹ năng làm việc văn phòng nên trang bị là gì?","Hãy học cách giao tiếp hiệu quả vì giao tiếp đóng vai trò quan trọng trong kinh doanh và nhiều khi mang tính quyết định của thành công, luôn sáng tạo trong công việc, làm việc có tổ chức, biết lắng nghe và tiếp thu học hỏi.",
+,work for job,"Có nên làm trái ngành không?
+Được tuyển vào làm trái ngành thì có nên làm luôn không?
+Có thể làm trái ngành không?
+Làm trái ngành thì có ổn không?","Làm việc đúng chuyên môn cũng được, trái ngành cũng không quan trọng, miễn sao bạn luôn thấy thoải mái và vui vẻ với công việc mình đang làm, không bị áp lực hay gò bó bản thân, có thể kiếm được tiền để lo cho bản thân, gia đình và có cơ hội phát triển trong tương lai là được.",
+Thể thao,football,"Bóng đá mười một người bao nhiêu trọng tài?
+Sân đá mười một người có bao nhiêu trọng tài?
+Sân mười một người gồm mấy trọng tài?
+Có bao nhiêu trọng tài trong sân mười một người?",Gồm một trọng tài chính và hai trọng tài biên.,
+,sport,"Môn thể thao thu hút người xem nhiều nhất?
+Bóng đá được xem là môn thể thao gì?
+Thể thao vua là môn thể thao nào?
+Thể thao nào được xem là thể thao vua?
+Môn thể thao được xem là môn thể thao vua?",Bóng đá được xem là môn thể thao vua.,
+,basketball,"Những dạng của bóng rổ?
+Bóng rổ chơi mấy người?
+Quy tắc thành viên trong một trận bóng rổ?
+Các dạng của bóng rổ?
+Bóng rổ được chơi theo mấy dạng?",Bóng rổ được chơi theo hai dạng gồm ba nhân ba và năm nhân năm.,
+,sportswoman,"Tên kình ngư nữ số một Việt Nam?
+Cựu kình ngư nữ Việt Nam?
+Kình ngư nữ Việt Nam?
+Nữ Kình ngư xuất sắc của Việt Nam?
+Kình ngư số một Việt Nam?
+Nữ vận động viên bơi lội xuất sắc của Việt Nam?
+Kình ngư nữ đạt nhiều huy chương nhất?",Nữ kình ngư số của Việt Nam là Nguyễn Thị Ánh Viên.,
+,swimming,"Kình ngư số một Việt Nam hiện tại?
+Nam kình ngư số một Việt Nam?
+Nam vận động viên bơi lội xuất sắc của đội tuyển Việt Nam?
+Kình ngư của Việt Nam?
+Kình ngư đạt nhiều huy chương nhất hiện tại?
+Ai là Kình Ngư số một của Việt Nam?",Nam kình Ngư số một của Việt Nam là Nguyễn Huy Hoàng.,
+,stadium,"Sân vận động rộng nhất Việt Nam?
+Việt Nam có sân vận động nào rộng nhất?
+Sân vận động rộng nhất ở Việt Nam?
+Việt Nam có sân vận động nào lớn nhất?
+Sân bóng đá lớn nhất Việt Nam?",Sân vận động Mỹ Đình là sân vận động lớn nhất Việt Nam.,
+Lịch sử,tran quoc toan,"Người bóp nát quả cam là ai?
+Ai đã từng bóp nát quả cam?
+Người bóp nát quả cam tên gì?
+Người đã từng bóp nát quả cam?
+Anh hùng nào đã từng bóp nát quả cam?
+Trần Quốc Toản có phải là người bóp nát quả cảm không?",Trần Quốc Toản là người đã bóp nát quả cam,
+,politics,"Người sáng lập ra Đảng Cộng Sản Việt Nam?
+Chủ tịch Hồ Chí Minh có phải là người sáng lập ra Đảng Cộng Sản Việt Nam?
+Ai là người lập ra Đảng Cộng Sản?
+Tên của sáng lập ra Đảng Cộng Sản Việt Nam?
+Người sáng lập ra Đảng Cộng Sản có phải là Bác Hồ?",Chủ tịch Hồ Chí Minh là người sáng lập ra Đảng Cộng Sản Việt Nam.,
+,war america,"Trận chiến nào mà quân ta giành thắng lợi buộc Mỹ phải ký hiệp định?
+Tên trận chiến của ta mà làm Mỹ phải ký hiệp định và rút về nước?
+Tên của thắng lợi mang tên lịch sử trên không?
+Trận chiến mười hai ngày đêm diễn ra ở đâu?
+Chiến thắng mười hai ngày đêm có tên là gì?
+Chiến thắng nào buộc Mỹ phải ký hiệp định Pari?",Chiến thắng Điện Biên Phủ trên không.,
+,dien bien phu,"Trận chiến Điện Biên Phủ trên không diễn ra trong bao nhiêu ngày?
+Điện Biên Phủ trên không bao nhiêu ngày kết thúc?
+Điện Biên Phủ trên không diễn ra trong mấy ngày?
+Điện Biên Phủ trên không xảy ra trong bao lâu?",Diễn ra trong mười hai ngày đêm.,
+,viet nam,"Ai là người sáng lập ra nước Đại Việt?
+Đại Việt do ai sáng lập ra?
+Đinh Bộ Lĩnh có phải là sáng lập ra nước Đại Việt?
+Nước Đại Việt do ai sáng lập?
+Ai là người sáng lập ra nước Đại Cồ Việt?",Đinh Bộ Lĩnh là người sáng lập ra nước Đại Cồ Việt,
+,capital city,"Thủ đô nước ta là đâu?
+Tôi muốn biết Thủ đô của nước Việt Nam đặt ở đâu?
+Tên Thủ đô của Việt Nam là gì?",Hà Nội là thủ đô của nước Việt Nam.,
+,king,"Tên vị vua trị vị lâu nhất lịch sử Đại Việt?
+Lý Nhân Tông có phải là vị vua trị vị lâu nhất?
+Vị vua trị vị lâu nhất Đại Việt?
+Ai là vị vua trị vị lâu nhất trong lịch sử Đại Việt?",Lý Nhân Tông là vị vua trị vị lâu nhất trong lịch sử nước Đại Việt.,
+,quang trung,"Nguyễn Huệ là gì với vua Quang Trung?
+Quang Trung và Nguyễn Huệ quan hệ thế nào với nhau?
+Quang Trung có phải là Nguyễn Huệ không?
+Nguyễn Huệ có phải là vua Quang Trung không?",Quang Trung và Nguyễn Huệ là cùng một người.,
+Văn Học,song,"Ai là người sáng tác ra bài thơ sóng?
+Tác giả của bài thơ Sóng là ai?
+Xuân Quỳnh có phải là tác giả của bài thơ Sóng?",Bài thơ Sóng do nhà thơ Xuân Quỳnh sáng tác.,
+,vo nhat,"Truyện ngắn Vợ Nhặt của nhà văn nào?
+Vợ Nhặt của tác giả nào?
+Vợ Nhặt của nhà văn nào?
+Ai là người sáng tác tác phẩm Vợ Nhặt?
+Kim Lân có phải tác giả của truyện ngắn Vợ Nhặt?
+Tác phẩm Vợ Nhặt do ai sáng tác?",Tác phẩm Vợ Nhặt do tác giả Kim Lân sáng tác.,
+,viet bac,"Việt Bắc do ai sáng tác?
+Ai là người sáng tác bài thơ Việt Bắc?
+Mình về mình có nhớ ta mười lăm năm ấy thiết tha mặn nồng của nhà thơ nào?
+Việt Bắc của nhà thơ nào?
+Tố Hữu có phải là tác giả của bài thơ Việt Bắc?
+Bài thơ Việt Bắc của ai sáng tác?",Bài thơ Việt Bắc do nhà thơ Tố Hữu sáng tác.,
+,voi vang,"Vội Vàng do ai sáng tác?
+Vội Vàng của nhà thơ nào?
+Tôi muốn tắt nắng đi cho màu đừng nhạt mất tôi muốn buộc gió lại cho hương đừng bay đi là của nhà thơ nào?
+Bài thơ Vội Vàng do ai sáng tác?",Bài thơ Vội Vàng do nhà thơ Xuân Diệu sáng tác.,
+,rung xa nu,"TNú là nhân vật của tác phẩm nào và do ai sáng tác?
+Ai là người sáng tác ra tác phẩm Rừng Xà Nu?
+Rừng Xà Nu của tác giả nào?
+Nguyễn Thành Trung có phải là tác giả tác phẩm Rừng Xà Nu không?",Tác phẩm Rừng Xà Nu do tác giả Nguyễn Trung Thành sáng tác.,
+,,,"Xin lỗi, Candy chưa hiểu ý bạn.",
